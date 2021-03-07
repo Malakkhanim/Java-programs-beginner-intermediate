@@ -9,7 +9,7 @@ package exercise2.pkg19;
  *
  * @author 99470
  */
-public class Exercise219 {
+public class Exercise2_19 {
 
     /**
      * @param args the command line arguments

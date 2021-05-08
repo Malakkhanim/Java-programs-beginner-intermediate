@@ -1,6 +1,6 @@
 //Exercise 7.20 on book
 import java.util.Scanner;
-public class Exercise7_20_homework
+public class Sales
 {
     public static void main(String[] args)
     {
